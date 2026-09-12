@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built for AtliQ Technologies to analyze telecom revenue, user activity, and market share — with a specific focus on comparing performance **Before 5G** vs. **After 5G** rollout.
 
-![Dashboard Preview](atliqo_telecom_dashboard.png)
+![Dashboard Preview](Telecom data insights Dashboard.png)
 
 ## Overview
 
@@ -69,10 +69,11 @@ A **Before 5G / After 5G** toggle lets users switch the entire report's context 
 
 ```
 ├── README.md
-├── atliqo_telecom_dashboard.pbix   # main Power BI report file
-├── data/                            # source data (if included)
-└── atliqo_telecom_dashboard.png     # dashboard screenshot
-```
-
----
-*Update the Data Fields and File Structure sections above to match your actual data model and file names.*
+├── Telecom data insights report.pbix   # main Power BI report file
+├── dim_cities.csv
+├── dim_date.csv
+├── dim_plan.csv
+├── fact_atliqo_metrics.csv 
+├── fact_market_share.csv
+├── fact_plan_revenue.csv   # source data 
+└── Telecom data insights Dashboard.png     # dashboard screenshot
