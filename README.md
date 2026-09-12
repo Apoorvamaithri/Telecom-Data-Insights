@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built for AtliQ Technologies to analyze telecom revenue, user activity, and market share — with a specific focus on comparing performance **Before 5G** vs. **After 5G** rollout.
 
-![Dashboard Preview](Telecom_data_insights_Dashboard.png)
+![Dashboard Preview](Telecom_data_insights_Dashboard)
 
 ## Overview
 
