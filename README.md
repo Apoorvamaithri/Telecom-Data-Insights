@@ -40,7 +40,7 @@ A **Before 5G / After 5G** toggle lets users switch the entire report's context 
 
 ## Key Insights
 
-- Active users and plan revenue both shifted notably after the 5G rollout, with the After-5G period (Jun–Sep) showing a different usage pattern than Before-5G (Jan–Apr).
+- Identified that despite overall revenue growth, active users dropped by 18.83M and unsubscriptions rose by 1.63M post-5G rollout — revealing that revenue gains were driven entirely by plan price hikes rather than user growth, flagging a churn risk masked by top-line numbers.
 - **AtliQ** holds the largest market share (35.42%) among tracked competitors, ahead of **Britel** (27.4%) and **DADAFONE** (19.5%).
 - **Plan p1** is the top revenue-generating plan (₹419.93 Cr), with revenue dropping off sharply across the plan lineup down to p10 (₹13.11 Cr).
 - **Mumbai** leads all cities in total market value (₹12,926.2 Cr), followed by **Delhi** and **Kolkata**.
